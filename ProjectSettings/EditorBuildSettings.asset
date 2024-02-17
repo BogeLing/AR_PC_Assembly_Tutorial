@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainScene.unity
+    guid: 9c60a326169bdc947949164835f5a10c
+  - enabled: 1
+    path: Assets/Scenes/StepScenes/CPUScene.unity
+    guid: afc498c8ba44daf49a56947099d18db3
+  - enabled: 1
+    path: Assets/Scenes/StepScenes/CPUHeatSinkScene.unity
+    guid: 0c959eee89ad92149a1200b208b337c5
+  - enabled: 1
+    path: Assets/Scenes/StepScenes/MemoryScene.unity
+    guid: bfd4c798e1cbb2f498d8af74b3e282d1
+  - enabled: 1
+    path: Assets/Scenes/StepScenes/SSDScene.unity
+    guid: e2eb44ffc671d384984a727dfb0d87df
+  - enabled: 1
+    path: Assets/Scenes/StepScenes/MotherBoardScene.unity
+    guid: 6e951b9d36d6258448cb10753d8abc1a
+  - enabled: 1
+    path: Assets/Scenes/StepScenes/ATXScene.unity
+    guid: ef0c5f2822f5daf45b4f4fc2afc8537a
+  - enabled: 1
+    path: Assets/Scenes/StepScenes/JumperScene.unity
+    guid: d89a1eceb842b224c92502f636d8dfbe
+  - enabled: 1
+    path: Assets/Scenes/StepScenes/GPUScene.unity
+    guid: c90a22ed323ac94418d8d889c8c6f469
+  - enabled: 1
+    path: Assets/Scenes/RecordsScene.unity
+    guid: 0835394faacae7a44a753a4c90a6e79f
+  - enabled: 1
+    path: Assets/Scenes/ProcedureScene.unity
+    guid: feeb79e5d38ff114297c60bb83bee814
+  - enabled: 1
+    path: Assets/Scenes/NewTutorialScene.unity
+    guid: 65989c46b9f78f841892a32ff9444287
+  m_configObjects: {}

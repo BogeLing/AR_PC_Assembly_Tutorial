@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="GTS250" size="1.000000 1.342149" />
+    <ImageTarget name="Heat_Sink" size="1.000000 1.068670" />
+    <ImageTarget name="Memory_module" size="1.000000 0.349335" />
+    <ImageTarget name="SSD" size="1.000000 0.343830" />
+    <ImageTarget name="CPU" size="1.000000 1.007663" />
+    <ImageTarget name="A320M" size="1.000000 0.698000" />
+    <ImageTarget name="IO_interface" size="1.000000 0.698000" />
+  </Tracking>
+</QCARConfig>
